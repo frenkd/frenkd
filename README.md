@@ -1,4 +1,4 @@
-### Hi there - 👋 I'm Frenk
+### Hi there, I'm Frenk 👋 
 
 - 🔭 I’m currently working on Generative AI Watermarking for Speech
 - 🌱 I’m currently studying at Utrecht University
