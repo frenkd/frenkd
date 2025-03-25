@@ -1,8 +1,13 @@
 ### Hi there, I'm Frenk 👋 
 
-- 🔭 I’m currently working on Generative AI Watermarking for Speech at UC Berkeley
-- 🌱 I’m studying Artificial Intelligence at Utrecht University
-- ⚡ I love hackathons - I've participated on 9 of them so far, winning 4 and scoring in the top 10% in the rest
+I'm an AI Engineer & Tech Writer passionate about bringing AI into EdTech. Check out my work at [frenkd.github.io](https://frenkd.github.io)
+
+- 🔭 Currently working on building AI-powered educational tools at Epistemy
+- ✍️ Writing about AI & Tech for Finance Magazine
+- 🎤 Speaking at tech conferences about AI and startups
+- ⚡ Love hackathons - participated in 9, won 4, and placed top 10% in the rest
+- 🤖 Passionate about making AI accessible and useful in education
+
 <!--
 [![Frenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=frenkd)](https://github.com/anuraghazra/github-readme-stats)
 -->
