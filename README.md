@@ -2,8 +2,8 @@
 
 I'm an AI Engineer & Tech Writer passionate about bringing AI into EdTech. Check out my work at [frenkd.github.io](https://frenkd.github.io)
 
-- 🔭 Currently working on building AI-powered educational tools at Epistemy
-- ✍️ Writing about AI & Tech for Finance Magazine
+- 🔭 Currently working on building AI-powered educational tools at [Epistemy](https://epistemy.io)
+- ✍️ Writing about AI & Tech for [Finance Magazine](https://www.finance.si/author?id=FRDRA)
 - 🎤 Speaking at tech conferences about AI and startups
 - ⚡ Love hackathons - participated in 9, won 4, and placed top 10% in the rest
 - 🤖 Passionate about making AI accessible and useful in education
